@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cba-horarios-chhd",
+  "private_key_id": "ab8f30e4a21703c1fc5150ce85e61c4ccb1d49e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCVdE89i1ZeAzSq\nYZLVwIUJdhMQWgQRjYw8nJWVOMAwxK9akLMT+ZGe1Attus5LbxuN6zzQNsFW3gqw\neNmbalT8E5pGWgOQWr8DlmPNn3T1OhO0FPIoQjFb4J/m1BEE9encDYOR+4TV1Qm4\nd+OvKaG0cchS6ePjGSEZPLg5R0HPht2yX/L1cROcGfTx8trXHVyMadPjChX3SIRn\n80vCY7lAKDQUg/X97Qv6ZBzMqroaeIT1PsrvfmFv8ojbQTBZygGgrNTLxotH5Dib\n3RbM4voWsvCE1LMDuVxRSij0xk6NmcLYREfKS8t/xEWAjrDFog3EIhBRRayZLgpG\n7wV0C1f5AgMBAAECggEAAOuP51WZyQdlBh2GrWk7iHThJisftkn0UJU4OIx6ZnJ3\nj+uvJpLVSjCNB3Zsebtr5IJLxA5qP1Irp61+zX2om0q1mvRH7FYasfd1ktkF+9KJ\nN4Uffo71xdaKtX2dwzWOZIvywO3XAggHQMsALF5pv/YpYRVOkWHgucqNadDd/1yX\nTR4TeCFopG2C03Y2NMY8BpnzR29XbKFVxi55eU6qoAFCVW7GiqhtMZvxNN/MwUvX\nAEFH+41jgocoQgBAjeyPeFxnN/KEGisR5Yuhn+Bu6zu1OTsALTxpkR8IoIMmljRM\n9r7RjKGgTHkzka3LNyVQLJC/iqpcRBZ6cFMnLOKSmQKBgQDHdexcFFNezMRFCP5c\n3vKb8gR+uVaNfOuBfchff1Rl6igXMReqMtMVmq/bQ0y+rMS5wRqsn8kBdGmCSFPa\nzcuSfKYt6JfnwQtui7FzinO7slkJ17eW+0Pg9s9UsP4DxBuEBjQ+5yMsE0oigG4i\ng5we39zwZLEdpvjtG31kTzvkjQKBgQC/0Z/yG+FCtn5ys/RismpS8plu7k3LHO9P\n/VxPsQwyPGD39/ko8N8NgjH+ZskfNsMmL9aQniT/mWgrlro51ibJ6rBRA7UcRbTm\n235TUFsSMTKXufpGEt7s5f6jENmtN/VqQEcLdPhy8vrnHvwkV+S9KhvRTqosUn0b\nZCs0oQFEHQKBgHR+zlaVVIAo7nU3pICPgnlMaA2vp/qpPE98LHyCPMPteA7bkGvK\nlXinyRAyBW/ULm4jd7Xc+SRNXpZGMhu4WK6s+M4VbCtil4+wLStDcQbuSoyyHjsj\nc+i/niZj3WhLsJpymS8oBmXmukTeZ/Tmk1eA/mS1GrEr5XVuudTNZji9AoGAG3mA\nCmKZ6j9Pb0h9SaG6fvUGqw/xDpWvZWqpzTRTxeJGFV5sTsPpfvrWBFVem1zxqMeT\nWRV9wSqM9ClbtSsKVUOLS59XUpxdY++ucWqCEOIBGCBoS58qVQ5AYcTpGNl6CmT4\niBiR+Yz6CR60CNSaC8o7P8ifsUeDaef4FEq3brUCgYBylBKEyDcXLzvnxjhIyDMK\nnePyQeNNTjTcm+ure4mF3b+0atIY80qVR9Y/0WHNDAaj4vj7Y29fMkJaSB2vE1ZT\nLOL/Yu6CWod6Gwnq41FmFaMtZWTp92/y+vnNVZc0PqsP52QGLVtcK1tpknRyf+C5\nh2SUAqSKNjK6W9/rfH5myA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "horarioscbabot@cba-horarios-chhd.iam.gserviceaccount.com",
+  "client_id": "116076248088941983759",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/horarioscbabot%40cba-horarios-chhd.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

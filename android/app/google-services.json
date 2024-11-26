@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694093912795",
+    "project_id": "horarioscba",
+    "storage_bucket": "horarioscba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694093912795:android:4e811559cf21da94548afe",
+        "android_client_info": {
+          "package_name": "com.example.horarios_cba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcGHjax3RXdzDUHSNYt1y8WcjvoAIwWgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
